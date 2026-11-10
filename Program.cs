@@ -29,7 +29,11 @@ class Program
         while (running)
         {
             Console.Clear();
+<<<<<<< HEAD
             Console.WriteLine("=== HR AND PAYROLL MANAGEMENT ===");
+=======
+            Console.WriteLine("=== EMPLOYEE MANAGEMENT SYSTEM ===");
+>>>>>>> GarciaLawrenzMatthew
             Console.WriteLine("1. Add Employee");
             Console.WriteLine("2. View Employees");
             Console.WriteLine("3. Search Employees");
